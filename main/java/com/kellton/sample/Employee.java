@@ -5,6 +5,7 @@ public class Employee {
 	private String name;
 	private String designation;
 	private double salary;
+	private double salarys;
 	public Employee(){
 		super();
 	}
